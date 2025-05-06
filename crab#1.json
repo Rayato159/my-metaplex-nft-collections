@@ -1,0 +1,21 @@
+{
+    "name": "Crabby#1",
+    "description": "My first Metaplex NFT, This is a pixel art crab that I had drawn by hand.",
+    "image": "https://raw.githubusercontent.com/Rayato159/my-metaplex-nft-collections/refs/heads/main/crab%231.gif",
+    "external_url": "https://dancingwithmycode.com/",
+    "attributes": [
+        {
+            "trait_type": "crab",
+            "value": "orange"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Rayato159/my-metaplex-nft-collections/refs/heads/main/crab%231.gif",
+                "type": "image/gif"
+            }
+        ],
+        "category": "image"
+    }
+}
